@@ -1,4 +1,3 @@
-// Task routes will go here
 import express from "express";
 import Task from "../models/Task.js";
 import auth from "../middleware/auth.js";

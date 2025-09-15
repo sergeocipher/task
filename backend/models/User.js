@@ -1,4 +1,3 @@
-// User model schema will go here
 import mongoose from "mongoose";
 
 const userSchema = new mongoose.Schema({
